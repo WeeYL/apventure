@@ -4,4 +4,13 @@ faizah adding somemore
 
 weilin checking in
 
+<<<<<<< HEAD
+irene checking in
+=======
 boey wrote something here...
+>>>>>>> e6a0658f694fec74d04d3f74506fba6865e90d18
+
+weilin again
+
+weilin x2
+
